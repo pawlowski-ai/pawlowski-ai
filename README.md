@@ -38,7 +38,7 @@ Coming soon...
 - 🔍 Finish RAG pipeline + publish demo
 - 🧠 Expand `prompt-eval-framework` to include benchmark scoring
 - 🤖 Publish agent orchestration flow + context lifecycle
-- 🌐 Launch my personal site (Notion → GitHub Pages)
+- 🌐 Launch my personal site
 
 ---
 
