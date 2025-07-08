@@ -2,7 +2,7 @@
 <p align="center">
   💡 GenAI Specialist · Prompt QA · Builder of AI-native tools<br/>
   🔍 Focused on LLM safety, orchestration, RAG, and real-world deployment<br/>
-  🌍 Based in Poland · Working remotely · ex-Invisible Technologies
+  🌍 Based in Poland · Working remotely
 </p>
 
 ---
