@@ -14,7 +14,7 @@ I'm a hands-on AI practitioner working at the intersection of prompt engineering
 Over the past year, I’ve:
 - ✍️ Delivered 400+ feedback reports as a QA Specialist on RLHF/SFT pipelines at [Invisible Technologies](https://www.invisible.co/)
 - 🧱 Built and launched [Memorio](https://memorio-pamiec.netlify.app/), an AI-powered photo restoration + memorial builder using GPT-4o agents
-- 🧠 Created [DreamAI](https://tinyurl.com/jungAI) – an experimental AI powered web app for Jungian dream interpretation with safety filters & red teaming
+- 🧠 Created [JungianAI](https://jungian-dream-analyzer-ai-907923477304.us-west1.run.app/) – an experimental AI powered web app for Jungian dream interpretation with safety filters & red teaming
 - 📚 Started [Mózgowiec Digest](https://mozgowiec.substack.com/), a weekly blog and newsletter blending AI, neuroscience and self-optimization
 
 ---
