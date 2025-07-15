@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Łukasz Pawłowski</h1>
 <p align="center">
-  💡 GenAI Specialist · Prompt QA · Builder of AI-native tools<br/>
-  🔍 Focused on LLM safety, orchestration, RAG, and real-world deployment<br/>
+  🧠 GenAI Practitioner · Prompt Engineer · Builder of AI-native tools<br/>
+  🔍 Focused on LLM safety, evaluation, and real-world orchestration<br/>
   🌍 Based in Poland · Working remotely
 </p>
 
@@ -9,45 +9,43 @@
 
 ## 🧠 About me
 
-I'm a hands-on AI practitioner working at the intersection of prompt engineering, LLM evaluation, and AI product integration. I combine real-world prompt QA expertise with solo product building – from concept to shipped tools.
+I'm an AI builder working at the intersection of **LLM prompt design, safety testing, and lightweight AI product engineering**. I specialize in **evaluating and integrating foundation models** – building pipelines, guardrails, and tools that make them more usable, safer, and aligned with human needs.
 
-Over the past year, I’ve:
-- ✍️ Delivered 400+ feedback reports as a QA Specialist on RLHF/SFT pipelines at [Invisible Technologies](https://www.invisible.co/)
-- 🧱 Built and launched [Memorio](https://memorio-pamiec.netlify.app/), an AI-powered photo restoration + memorial builder using GPT-4o agents
-- 🧠 Created [JungianAI](https://jungian-dream-analyzer-ai-907923477304.us-west1.run.app/) – an experimental AI powered web app for Jungian dream interpretation with safety filters & red teaming
-- 📚 Started [Mózgowiec Digest](https://mozgowiec.substack.com/), a weekly blog and newsletter blending AI, neuroscience and self-optimization
+I started in SFT/RLHF pipelines as a **AI Trainer and QA Specialist** and have since expanded into **prompt taxonomy design, adversarial testing, real-time evaluation tooling (Colab + Hugging Face), and LLM-integrated frontend apps.**
+
+---
+
+## 🧰 What I’ve built
+
+### 🔎 [`PROMPT_GALLERY`](https://github.com/pawlowski-ai/PROMPT_GALLERY)
+> A structured, red-team-oriented collection of LLM prompts (hallucinations, jailbreaks, few-shot, etc.), tested live against Hugging Face models.
+
+Includes a self-contained evaluation notebook built with `transformers`, `AutoTokenizer`, GPU acceleration and model inference.
+
+### 🧠 [`JungAI`](https://github.com/pawlowski-ai/JungAI)
+> A Vite + React app with Gemini integration. Features a fully custom system prompt wrapper designed for content filtering, refusal logic, and archetypal reasoning (Jungian psychology). Includes strict red-teaming logic and abuse prevention. Deployed live. 
+
+### 🕊 [`Memorio`](https://github.com/pawlowski-ai/memorio)
+> A handcrafted AI-powered photo restoration + memorial site. Built from scratch with HTML/CSS/JS and AI-generated assets. Integrated Stripe for payments and Netlify Forms for frictionless UX. Deployed live.
 
 ---
 
 ## 🔧 Current tech stack
 
-- **LLMs**: GPT, Gemini, Claude
-- **Prompting**: few-shot, CoT, constraints, jailbreaks, system prompt logic
-- **Evaluation**: red teaming, Promptfoo, manual scoring
-- **Agents**: n8n, LangGraph (early), multi-step prompt pipelines
-- **Stack**: Python (Colab), GitHub, Notion, Markdown, APIs
+- **LLM Evaluation**: adversarial prompts, scoring heuristics, manual + Promptfoo, safety rubrics
+- **Prompting**: system chaining, constraints, few-shot scaffolds, jailbreaks, hallucination triggers
+- **Models & APIs**: GPT-4o, Gemini 1.5, Claude, Hugging Face OSS (e.g. TinyLlama)
+- **Tooling**: Python, Colab, `transformers`, `tokenizers`, GitHub, Markdown
+- **Frontend**: React + TypeScript + Tailwind + Vite, HTML/CSS/JS, Netlify
 
 ---
 
-## 📁 Featured projects
-
-Coming soon...
-
-## 🧭 Roadmap (next steps)
-
-- 🔍 Finish RAG pipeline + publish demo
-- 🧠 Expand `prompt-eval-framework` to include benchmark scoring
-- 🤖 Publish agent orchestration flow + context lifecycle
-- 🌐 Launch my personal site
-
----
-
-## 💬 Let's connect
+## 💬 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pawlowski-lukasz)
 - 🧠 [Substack](https://mozgowiec.substack.com/)
-- 📬 Email: lpawlowski99@gmail.com
+- 📨 lpawlowski99@gmail.com
 
 ---
 
-<p align="center">✨ Thanks for visiting! Let's build safe, smart, and human-centered AI systems. ✨</p>
+<p align="center">⚡ Let's build safer, smarter, and more grounded AI systems. ⚡</p>
