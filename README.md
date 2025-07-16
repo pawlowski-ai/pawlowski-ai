@@ -34,7 +34,7 @@ Includes a self-contained evaluation notebook built with `transformers`, `AutoTo
 
 - **LLM Evaluation**: adversarial prompts, scoring heuristics, manual + Promptfoo, safety rubrics
 - **Prompting**: system chaining, constraints, few-shot scaffolds, jailbreaks, hallucination triggers
-- **Models & APIs**: GPT-4o, Gemini 1.5, Claude, Hugging Face OSS (e.g. TinyLlama)
+- **Models & APIs**: GPTs, Gemini Models, Claude, Hugging Face OSS
 - **Tooling**: Python, Colab, `transformers`, `tokenizers`, GitHub, Markdown
 - **Frontend**: React + TypeScript + Tailwind + Vite, HTML/CSS/JS, Netlify
 
