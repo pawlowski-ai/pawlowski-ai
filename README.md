@@ -1,51 +1,74 @@
-<h1 align="center">👋 Hi, I'm Łukasz Pawłowski</h1>
+<h1 align="center">Hi, I'm Lukasz Pawlowski</h1>
 <p align="center">
-  🧠 GenAI Practitioner · Prompt Engineer · Builder of AI-native tools<br/>
-  🔍 Focused on LLM safety, evaluation, and real-world orchestration<br/>
-  🌍 Based in Poland · Working remotely
+  LLM QA & AI Evaluation Specialist · SFT/RLHF Quality · Prompt Evaluation · AI Workflow Builder<br/>
+  Polish-English language judgment · Model behavior analysis · AI product operations<br/>
+  Based in Poland · Open to remote, contract, freelance, part-time, B2B, EU/UK/US work
 </p>
 
 ---
 
-## 🧠 About me
+## About
 
-I'm an AI builder working at the intersection of **LLM prompt design, safety testing, and lightweight AI product engineering**. I specialize in **evaluating and integrating foundation models** – building pipelines, guardrails, and tools that make them more usable, safer, and aligned with human needs.
+I work at the intersection of **LLM evaluation, AI data quality, prompt-response QA, and practical AI workflow building**.
 
-I started in SFT/RLHF pipelines as a **AI Trainer and QA Specialist** and have since expanded into **prompt taxonomy design, adversarial testing, real-time evaluation tooling (Colab + Hugging Face), and LLM-integrated frontend apps.**
+My strongest commercial experience comes from approximately **2 years in SFT/RLHF-style AI training and quality work**, where the core task was evaluating model outputs, applying rubrics, judging language quality, and improving response behavior. I now combine that evaluation background with hands-on AI product and workflow projects.
 
----
+I am best positioned for roles involving:
 
-## 🧰 What I’ve built
+- LLM QA, AI evaluation, model evaluation, and prompt-response review
+- SFT/RLHF quality work and AI trainer workflows
+- Polish-English AI language evaluation and localization QA
+- prompt quality, rubric-based review, and model safety checks
+- AI operations, AI workflow implementation, and product-minded QA
 
-### 🔎 [`PROMPT_GALLERY`](https://github.com/pawlowski-ai/PROMPT_GALLERY)
-> A structured, red-team-oriented collection of LLM prompts (hallucinations, jailbreaks, few-shot, etc.), tested live against Hugging Face models.
-
-Includes a self-contained evaluation notebook built with `transformers`, `AutoTokenizer`, GPU acceleration and model inference.
-
-### 🧠 [`JungAI`](https://github.com/pawlowski-ai/JungAI)
-> A Vite + React app with Gemini integration. Features a fully custom system prompt wrapper designed for content filtering, refusal logic, and archetypal reasoning (Jungian psychology). Includes strict red-teaming logic and abuse prevention. Deployed live. 
-
-### 🕊 [`Memorio`](https://github.com/pawlowski-ai/memorio)
-> A handcrafted AI-powered photo restoration + memorial site. Built from scratch with HTML/CSS/JS and AI-generated assets. Integrated Stripe for payments and Netlify Forms for frictionless UX. Deployed live.
+I do not present myself as a classical software engineer. My edge is **judgment-heavy AI work**: understanding ambiguous prompts, evaluating outputs carefully, designing practical workflows, and using AI tools to ship useful artifacts quickly.
 
 ---
 
-## 🔧 Current tech stack
+## Selected Work
 
-- **LLM Evaluation**: adversarial prompts, scoring heuristics, manual + Promptfoo, safety rubrics
-- **Prompting**: system chaining, constraints, few-shot scaffolds, jailbreaks, hallucination triggers
-- **Models & APIs**: GPTs, Gemini Models, Claude, Hugging Face OSS
-- **Tooling**: Python, Colab, `transformers`, `tokenizers`, GitHub, Markdown
-- **Frontend**: React + TypeScript + Tailwind + Vite, HTML/CSS/JS, Netlify
+### [RepairMate / MendWise](https://github.com/pawlowski-ai/repairmate)
+AI-powered mobile repair assistant built with Expo, React Native, Firebase, Gemini, and RevenueCat.
+
+The project demonstrates practical AI product execution: user-submitted text or photos are routed through a Gemini-backed diagnosis flow, followed by alternative diagnosis handling and step-by-step repair guidance. It also includes authentication, consent gating, usage limits, a subscription paywall, and public privacy/terms pages.
+
+**Relevant signal:** AI workflow design, safety-aware prompt instructions, product thinking, mobile UX, Firebase-backed AI operations.
+
+### [JungAI](https://github.com/pawlowski-ai/JungAI)
+React + TypeScript application using Gemini for structured dream interpretation with a custom system prompt wrapper.
+
+The project focuses on prompt constraints, refusal behavior, abuse prevention, and safe handling of sensitive user inputs.
+
+**Relevant signal:** prompt engineering, model behavior control, red-team mindset, LLM safety QA.
+
+### [PROMPT_GALLERY](https://github.com/pawlowski-ai/PROMPT_GALLERY)
+Structured prompt collection and evaluation workspace for testing hallucination, jailbreak, few-shot, and safety-oriented model behavior.
+
+**Relevant signal:** prompt taxonomy, adversarial testing, evaluation thinking, Hugging Face/Colab experimentation.
 
 ---
 
-## 💬 Connect
+## Practical Skills
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pawlowski-lukasz)
-- 🧠 [Substack](https://mozgowiec.substack.com/)
-- 📨 lpawlowski99@gmail.com
+- **LLM Evaluation:** rubric-based review, output grading, failure-mode analysis, response quality checks
+- **SFT/RLHF QA:** instruction following, factuality, helpfulness, safety, tone, and language-quality review
+- **Prompt Evaluation:** prompt-response comparison, adversarial prompts, refusal behavior, hallucination checks
+- **AI Workflow Building:** MCP experiments, agent workflows, structured prompts, lightweight automation
+- **Product-Minded QA:** translating ambiguous user needs into clear tests, flows, and acceptance criteria
+- **Tools:** GitHub, Markdown, Python/Colab basics, Hugging Face, Gemini, GPT/Claude workflows, React Native/Expo with LLM assistance
 
 ---
 
-<p align="center">⚡ Let's build safer, smarter, and more grounded AI systems. ⚡</p>
+## Credentials
+
+- University of Pennsylvania / Coursera: AI for Business
+- Hugging Face: MCP and AI tooling certificates
+- Commercial AI data quality / SFT-RLHF experience: approximately 2 years
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/pawlowski-lukasz)
+- [Substack](https://mozgowiec.substack.com/)
+- lpawlowski99@gmail.com
